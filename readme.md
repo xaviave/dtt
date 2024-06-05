@@ -11,6 +11,8 @@ I was tired of payfull services that transfered my favorites but without keeping
 * Transfer both tracks and album from Deezer ID to Tidal account
 * Transfer just tracks
 * Transfer just artists
+* Transfer just albums
+* Transfer playlists by name
 * Remove all favorites from a Tidal account
 * Remove just favorite tracks from Tidal account
 * Remove just favorite artists from Tidal account
